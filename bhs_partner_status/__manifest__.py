@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 {
     'name': "Partner Status",
-    'version': '1.0',
+    'version': '19.0.1.0',
     'summary': 'Partner Status',
     'category': 'Mail',
     'description': """
