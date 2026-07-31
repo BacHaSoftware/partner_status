@@ -14,7 +14,7 @@
     'data': [
         'views/res_partner_views.xml'
     ],
-    'images': ['static/description/banner_partner_status.png'],
+    'images': ['static/description/banner.png'],
     # Author
     'author': 'Bac Ha Software',
     'website': 'https://bachasoftware.com',
