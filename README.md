@@ -44,7 +44,7 @@
 
 <div align="left">
   <a href="https://github.com/BacHaSoftware/partner_status">
-    <img src="/bhs_partner_status/static/description/imgs/screen/contact.png" alt="Setting">
+    <img src="/bhs_partner_status/static/description/imgs/screen/config_1.png" alt="Setting">
   </a>
 </div>
 
@@ -97,7 +97,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Need assistance with setup or have any concerns? Contact Bac Ha Software directly for prompt and dedicated support:
 <div align="left">
   <a href="https://github.com/BacHaSoftware">
-    <img src="/bhs_partner_status/static/description/imgs/logo.png" alt="Logo" height="80">
+    <img src="/bhs_partner_status/static/description/imgs/logo-bhsoft.png" alt="Logo" height="80">
   </a>
 </div>
 
