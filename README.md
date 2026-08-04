@@ -8,7 +8,7 @@
     <img src="/bhs_partner_status/static/description/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Partner Status</h3>
+  <h3 align="center">Partner Lifecycle Automation</h3>
 
   <p align="center">
     A product of Bac Ha Software that allows users to manage contact statuses and add contacts to a blacklist based on their status.
@@ -44,13 +44,13 @@
 
 <div align="left">
   <a href="https://github.com/BacHaSoftware/partner_status">
-    <img src="/bhs_partner_status/static/description/imgs/screen/contact.png" alt="Setting">
+    <img src="/bhs_partner_status/static/description/imgs/screen/config_1.png" alt="Setting">
   </a>
 </div>
 
 #### Key Features:
 
-🌟 <code>Partner Status</code>: Add a field to record status of contacts, add contacts to blacklist depending on their status.
+🌟 <code>Partner Lifecycle Automation</code>: Add a field to record status of contacts, add contacts to blacklist depending on their status.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,7 +97,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Need assistance with setup or have any concerns? Contact Bac Ha Software directly for prompt and dedicated support:
 <div align="left">
   <a href="https://github.com/BacHaSoftware">
-    <img src="/bhs_partner_status/static/description/imgs/logo.png" alt="Logo" height="80">
+    <img src="/bhs_partner_status/static/description/imgs/logo-bhsoft.png" alt="Logo" height="80">
   </a>
 </div>
 
