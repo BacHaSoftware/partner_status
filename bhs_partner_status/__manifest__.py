@@ -1,8 +1,8 @@
 # -*- encoding: utf-8 -*-
 {
-    'name': "Partner Status",
+    'name': "Partner Lifecycle Automation",
     'version': '1.0',
-    'summary': 'Partner Status',
+    'summary': 'Partner Lifecycle Automation',
     'category': 'Mail',
     'description': """
         A product of Bac Ha Software that allows users to manage contact status and 
