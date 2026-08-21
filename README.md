@@ -8,7 +8,7 @@
     <img src="/bhs_partner_status/static/description/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Partner Status</h3>
+  <h3 align="center">Partner Lifecycle Automation</h3>
 
   <p align="center">
     A product of Bac Ha Software that allows users to manage contact statuses and add contacts to a blacklist based on their status.
