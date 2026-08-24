@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 {
-    'name': "Partner Status",
+    'name': "Partner Lifecycle Automation",
     'version': '1.0',
     'summary': 'Partner Status',
     'category': 'Mail',
